@@ -26,7 +26,7 @@ df.columns
 df.index
 df.shape
 
-## Preparing Data
+## Preparing Data and Preprocessing
 
 df.isnull().values.any()
 df.isnull().sum()
