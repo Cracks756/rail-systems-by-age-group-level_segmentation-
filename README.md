@@ -1,4 +1,4 @@
-# Rail Systems By Age Group - Rule_Based_Segmentation
+# Rail Systems By Age Group - Rule Based Segmentation
 
 There is a level based segmentation work which is about passengers of railway systems in Istanbul.The segmentation has been made according to the passenger counts and other variables has been used to identify the segments.
 
